@@ -1,0 +1,14 @@
+# Reference material: private study only, never commit or publish
+references/vids/
+references/sheets/
+references/overview/
+references/measure/
+references/transcripts/
+# Our own measurement output / renders
+out/
+templates/remotion/out/
+# Dependencies and big downloads
+node_modules/
+templates/remotion/whisper.cpp/
+templates/remotion/public/sfx/
+templates/remotion/public/music/
